@@ -5,3 +5,4 @@ title: "My Portfolio Website"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![./images/Images/Analysis Github image.webp]{width-"75%" fig-align-"center"}
