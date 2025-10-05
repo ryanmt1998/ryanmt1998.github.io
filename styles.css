@@ -11,3 +11,16 @@ body {
   animation: gradientBG 15s ease infinite;
   color: white;
 }
+
+
+
+img {
+  display: block;               /* Removes inline spacing */
+  margin: 20px auto;            /* Centers image with vertical margin */
+  width: 200px;                 /* Set width, adjust as needed */
+  height: auto;                 /* Maintain aspect ratio */
+  border-radius: 15px;          /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Soft shadow */
+  border: 3px solid white;      /* White border */
+  object-fit: cover;            /* Crop to fill container if resized */
+}

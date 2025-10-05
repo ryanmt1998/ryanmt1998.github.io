@@ -5,7 +5,9 @@ format:
     css: styles.css
 ---
 
-![Ryan Martin](Images/IMG_0766.jpeg){ width=200px }
+<div style="text-align: center;">
+  ![Ryan Martin](Images/IMG_0766.jpeg)
+</div>
 
 
 
