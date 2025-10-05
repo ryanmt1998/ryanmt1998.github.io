@@ -12,4 +12,4 @@
 
 </section>
 
-<img src="/Images/contact-us-icon-phone-icon-call-icon-ssQzhquG.jpg" alt="Phone Icon" style="width: 60px; height: auto; margin-top: 20px;">
+<img src="/Images/contact-us-icon-phone-icon-call-icon-ssQzhquG.jpg" alt="Phone Icon" style="width: 200px; height: auto; margin-top: 80px;">
