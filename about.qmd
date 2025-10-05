@@ -2,7 +2,7 @@
 title: "Backround and Interests"
 ---
 
-# About Me
+## About Me
 
 I was born and raised in Chapel Hill, North Carolina. and come fromy a family of six. My mother is from Ireland, and my father is from South Africa. I have one brother and two sisters - my brother and sister are from England, and my other sister is also from Chapel Hill. 
 
