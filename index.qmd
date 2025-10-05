@@ -1,5 +1,8 @@
 ---
 title: "Welcome to Ryan Martin's Personal Portfolio"
+format:
+  html:
+    css: styles.css
 ---
 
 This website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch.
