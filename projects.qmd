@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+format: html
 ---
 
 ## Real Estate Optimization Model — Laurelton, Queens, New York

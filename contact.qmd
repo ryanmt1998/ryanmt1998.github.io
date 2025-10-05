@@ -1,3 +1,7 @@
+---
+title: ""
+format: html
+---
 <h1 style="text-align: center; color: white;">Contact Me</h1>
 
 <section style="max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; font-size: 1.1rem; line-height: 1.6; color: white;">
