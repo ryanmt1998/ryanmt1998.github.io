@@ -1,8 +1,6 @@
----
-title: "Resume"
----
 
-<h1 style="text-align: center;">Ryan Martin - Curriculum Vitae</h1>
+
+<h1 style="text-align: center;">Ryan Martin - Resume</h1>
 
 <section style="max-width: 700px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 1rem; color: #333;">
 
