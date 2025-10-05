@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Portfolio Website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to Ryan Martin’s Personal Portfolio\nThis website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch."
   }
 ]
