@@ -1,0 +1,66 @@
+---
+title: "Resume"
+---
+
+<h1 style="text-align: center;">Ryan Martin - Curriculum Vitae</h1>
+
+<section style="max-width: 700px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 1rem; color: #333;">
+
+  <p><strong>Chapel Hill, NC 27516</strong><br>
+  (919) 636-8693 &nbsp;&nbsp; ryanmarti1998@gmail.com<br>
+  <a href="https://www.linkedin.com/in/ryanalexandermartin" target="_blank" style="color:#007BFF;">www.linkedin.com/in/ryanalexandermartin</a></p>
+
+  <h2>Profile</h2>
+  <p>
+    Highly motivated and detail-oriented mathematics graduate with a passion for solving complex problems and uncovering actionable insights through data analysis. Experienced in advanced calculus, statistical modeling, and research, with a proven ability to deliver impactful results in academic and professional settings. Skilled in leveraging technical tools like MATLAB and Python to craft innovative solutions to challenging problems. Excited to contribute to collaborative, data-driven environments where analytical expertise drives organizational success and growth.
+  </p>
+  <p><strong>Skillset includes:</strong></p>
+  <ul>
+    <li>Expert Microsoft Excel and data management user</li>
+    <li>Research and Data Analysis</li>
+    <li>Statistics and Probability</li>
+    <li>MATLAB and Python</li>
+    <li>Fundamentals of Advanced Calculus</li>
+    <li>R Script for Statistical Computing</li>
+  </ul>
+
+  <h2>Education</h2>
+  <p><strong>Boston University, Boston, MA</strong><br>
+  Master of Science, Applied Business Analytics, December 2026</p>
+
+  <p><strong>Southern New Hampshire University, Manchester, NH</strong><br>
+  Bachelor of Science, Mathematics, October 2024<br>
+  Relevant coursework: Applied Statistics for STEM, Mathematical Modeling, Abstract Algebra, Seminar in Applied Mathematics, Financial Accounting, Applied Statistics 2 STEM</p>
+
+  <p><strong>University of North Carolina at Chapel Hill, Chapel Hill, NC</strong><br>
+  Bachelor of Arts, History, December 2023<br>
+  Relevant coursework: Discrete Math, 1st Course in Diff Equations, Advanced Calculus 1, Undergraduate Seminar in History, The Global Cold War, The World Since 1945, Linear Algebra, History of Sea Power, Intro to Probability, Topics in Mathematics, Air Power, Functions of a Complex Variable with Applications, Medieval History.<br>
+  <em>Dean's List 2023</em></p>
+
+  <p><strong>Durham Technical Community College, Durham, NC</strong><br>
+  Associates, Engineering, May 2020<br>
+  Relevant coursework: Intro to Engineering, Engineering Graphics, General Physics 1, General Physics 2</p>
+
+  <h2>Professional Experience</h2>
+  <p><strong>Independent Tutor</strong><br>
+  Middle/High School Mathematics Tutor &nbsp;&nbsp;&nbsp;&nbsp; 2020 – Present</p>
+  <ul>
+    <li>Provide comprehensive tutoring services to students across various levels, from Pre-Algebra to Precalculus, fostering confidence and academic excellence.</li>
+    <li>Design tailored learning strategies to address individual needs, improving understanding of challenging concepts and driving measurable progress in performance.</li>
+    <li>Utilize clear communication and problem-solving approaches to demystify complex mathematical principles for diverse learning styles.</li>
+  </ul>
+
+  <p><strong>Hotel Westport, Westport, Ireland</strong> &nbsp;&nbsp;&nbsp;&nbsp; Summers 2015 – 2022<br>
+  Leisure, Spa, and Hotel / Conference & Banqueting / Seasonal Employee</p>
+  <ul>
+    <li>Served a key role in delivering exceptional guest experience for customers during peak summer periods, ensuring high standards of service.</li>
+    <li>Collaborated with the Activities Supervisor to plan and execute engaging events that enhanced guest satisfaction.</li>
+    <li>Demonstrated adaptability and strong interpersonal skills by seamlessly integrating into dynamic teams in a fast-paced hospitality environment.</li>
+  </ul>
+
+  <h2>Other Information</h2>
+  <p><strong>Travel:</strong> US and Europe<br>
+  <strong>Sports:</strong> Long-distance runner and active CrossFit member<br>
+  <strong>Hobbies:</strong> Avid comic collector and puzzle/logic game enthusiast, showcasing creativity and critical thinking</p>
+
+</section>
