@@ -7,11 +7,8 @@ format:
 <h1 style="text-align: center;">Welcome to Ryan Martin's Personal Portfolio</h1>
 
 <div style="text-align: center;">
-  ![](Images/IMG_0766.jpeg)
+  <img src="Images/IMG_0766.jpeg" alt="Ryan Martin" style="width: 200px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 3px solid white;">
 </div>
-
-
-
 
 <p style="text-align: center; font-size: 2rem; font-weight: bold; color: white; margin-top: 20px;">
   This website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch.
