@@ -8,7 +8,7 @@ format:
 <h1 style="text-align: center;">Welcome to Ryan Martin's Personal Portfolio</h1>
 
 <div style="text-align: center;">
-  !(Images/IMG_0766.jpeg)
+  ![](Images/IMG_0766.jpeg)
 </div>
 
 
