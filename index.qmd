@@ -6,11 +6,9 @@ format:
 ---
 
 
-<div style="background: rgba(255, 255, 255, 0.2); padding: 10px; border-radius: 10px; text-align: center; display: inline-block;">
+![Ryan Martin](Images/Image_0766.jpeg){ width=200px }
 
-![Ryan Martin](images/IMG_0766.jpeg){ width=200px }
 
-</div>
 
 
 This website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch.
