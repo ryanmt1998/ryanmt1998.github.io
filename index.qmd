@@ -5,8 +5,7 @@ format:
     css: styles.css
 ---
 
-
-![Ryan Martin](Images/Image_0766.jpeg){ width=200px }
+![Ryan Martin](Images/IMG_0766.jpeg){ width=200px }
 
 
 
