@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  theme: lumen
   navbar:
     left:
       - text: About You
