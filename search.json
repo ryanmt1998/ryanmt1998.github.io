@@ -4,27 +4,34 @@
     "href": "index.html",
     "title": "Welcome to Ryan Martin’s Personal Portfolio",
     "section": "",
-    "text": "Ryan Martin\n\n\n\nThis website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch."
+    "text": "!(Images/IMG_0766.jpeg)\n\nThis website showcases my background, school achievements, and projects. Feel free to explore the different sections to learn more about me, view my resume, and get in touch."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Backround and Interests",
     "section": "",
-    "text": "I was born and raised in Chapel Hill, North Carolina. and come fromy a family of six. My mother is from Ireland, and my father is from South Africa. I have one brother and two sisters - my brother and sister are from England, and my other sister is also from Chapel Hill.\nI am a highly motivated and detail-oriented mathematics graduate with a passion for solving complex problems and uncovering actionable insights through data analysis. My background includes advanced calculus, statistical modeling, and research, where I have consistently delivered impactful results in both academic and professional settings.\nI am skilled in leveraging technical tools such as MATLAB and Python to craft innovative solutions to challenging problems. My expertise extends to Microsoft Excel, research and data analysis, statistics and probability, and R scripting for statistical computing.\nCurrently, I am pursuing a Master of Science in Applied Business Analytics at Boston University, building on my Bachelor of Science in Mathematics from Southern New Hampshire University and a Bachelor of Arts in History from the University of North Carolina at Chapel Hill.\n\n\nI am excited to contribute to collaborative, data-driven environments where my analytical expertise can drive organizational success and growth. My goal is to apply my skills in mathematics and data analytics to solve real-world problems and support decision-making processes.\n\n\n\nOutside of my professional pursuits, I am an avid long-distance runner and active CrossFit member. I enjoy collecting comics and engaging in puzzle and logic games, which reflect my creativity and critical thinking skills.\nFeel free to explore the other sections of my portfolio to learn more about my projects, achievements, and how to get in touch."
+    "text": "I was born and raised in Chapel Hill, North Carolina. and come fromy a family of six. My mother is from Ireland, and my father is from South Africa. I have one brother and two sisters - my brother and sister are from England, and my other sister is also from Chapel Hill.\nI am a highly motivated and detail-oriented mathematics graduate with a passion for solving complex problems and uncovering actionable insights through data analysis. My background includes advanced calculus, statistical modeling, and research, where I have consistently delivered impactful results in both academic and professional settings.\nI am skilled in leveraging technical tools such as MATLAB and Python to craft innovative solutions to challenging problems. My expertise extends to Microsoft Excel, research and data analysis, statistics and probability, and R scripting for statistical computing.\nCurrently, I am pursuing a Master of Science in Applied Business Analytics at Boston University, building on my Bachelor of Science in Mathematics from Southern New Hampshire University and a Bachelor of Arts in History from the University of North Carolina at Chapel Hill."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Backround and Interests",
+    "section": "",
+    "text": "I was born and raised in Chapel Hill, North Carolina. and come fromy a family of six. My mother is from Ireland, and my father is from South Africa. I have one brother and two sisters - my brother and sister are from England, and my other sister is also from Chapel Hill.\nI am a highly motivated and detail-oriented mathematics graduate with a passion for solving complex problems and uncovering actionable insights through data analysis. My background includes advanced calculus, statistical modeling, and research, where I have consistently delivered impactful results in both academic and professional settings.\nI am skilled in leveraging technical tools such as MATLAB and Python to craft innovative solutions to challenging problems. My expertise extends to Microsoft Excel, research and data analysis, statistics and probability, and R scripting for statistical computing.\nCurrently, I am pursuing a Master of Science in Applied Business Analytics at Boston University, building on my Bachelor of Science in Mathematics from Southern New Hampshire University and a Bachelor of Arts in History from the University of North Carolina at Chapel Hill."
   },
   {
     "objectID": "about.html#career-goals",
     "href": "about.html#career-goals",
     "title": "Backround and Interests",
-    "section": "",
-    "text": "I am excited to contribute to collaborative, data-driven environments where my analytical expertise can drive organizational success and growth. My goal is to apply my skills in mathematics and data analytics to solve real-world problems and support decision-making processes."
+    "section": "Career Goals",
+    "text": "Career Goals\nI am excited to contribute to collaborative, data-driven environments where my analytical expertise can drive organizational success and growth. My goal is to apply my skills in mathematics and data analytics to solve real-world problems and support decision-making processes."
   },
   {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "Backround and Interests",
-    "section": "",
-    "text": "Outside of my professional pursuits, I am an avid long-distance runner and active CrossFit member. I enjoy collecting comics and engaging in puzzle and logic games, which reflect my creativity and critical thinking skills.\nFeel free to explore the other sections of my portfolio to learn more about my projects, achievements, and how to get in touch."
+    "section": "Interests",
+    "text": "Interests\nOutside of my professional pursuits, I am an avid long-distance runner and active CrossFit member. I enjoy collecting comics and engaging in puzzle and logic games, which reflect my creativity and critical thinking skills.\nFeel free to explore the other sections of my portfolio to learn more about my projects, achievements, and how to get in touch."
   }
 ]
